@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://clefern.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
-    "main.js": "https://clefern.github.io/task-management-frontend/static/js/main.f8702923.chunk.js",
-    "main.js.map": "https://clefern.github.io/task-management-frontend/static/js/main.f8702923.chunk.js.map",
+    "main.js": "https://clefern.github.io/task-management-frontend/static/js/main.a6f19785.chunk.js",
+    "main.js.map": "https://clefern.github.io/task-management-frontend/static/js/main.a6f19785.chunk.js.map",
     "runtime~main.js": "https://clefern.github.io/task-management-frontend/static/js/runtime~main.eed85437.js",
     "runtime~main.js.map": "https://clefern.github.io/task-management-frontend/static/js/runtime~main.eed85437.js.map",
     "static/js/2.14fc34c8.chunk.js": "https://clefern.github.io/task-management-frontend/static/js/2.14fc34c8.chunk.js",
     "static/js/2.14fc34c8.chunk.js.map": "https://clefern.github.io/task-management-frontend/static/js/2.14fc34c8.chunk.js.map",
     "index.html": "https://clefern.github.io/task-management-frontend/index.html",
-    "precache-manifest.c4bd34197fa54990ace5766214cb6ac3.js": "https://clefern.github.io/task-management-frontend/precache-manifest.c4bd34197fa54990ace5766214cb6ac3.js",
+    "precache-manifest.7ca8e11a089192edf1e581a5bbc9ea8f.js": "https://clefern.github.io/task-management-frontend/precache-manifest.7ca8e11a089192edf1e581a5bbc9ea8f.js",
     "service-worker.js": "https://clefern.github.io/task-management-frontend/service-worker.js",
     "static/css/main.5ac26d30.chunk.css.map": "https://clefern.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
   }

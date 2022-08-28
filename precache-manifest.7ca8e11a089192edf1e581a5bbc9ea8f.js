@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0950d179b61946d3d386529f965f8b05",
+    "revision": "63ffe5ff3752ce36dbaa90638997bc8e",
     "url": "https://clefern.github.io/task-management-frontend/index.html"
   },
   {
-    "revision": "8e89de892d9f10f2426f",
+    "revision": "b058a24c19c8b1e16310",
     "url": "https://clefern.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://clefern.github.io/task-management-frontend/static/js/2.14fc34c8.chunk.js"
   },
   {
-    "revision": "8e89de892d9f10f2426f",
-    "url": "https://clefern.github.io/task-management-frontend/static/js/main.f8702923.chunk.js"
+    "revision": "b058a24c19c8b1e16310",
+    "url": "https://clefern.github.io/task-management-frontend/static/js/main.a6f19785.chunk.js"
   },
   {
     "revision": "a501224d1e3db779faf7",

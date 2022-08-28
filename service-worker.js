@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "https://clefern.github.io/task-management-frontend/precache-manifest.c4bd34197fa54990ace5766214cb6ac3.js"
+  "https://clefern.github.io/task-management-frontend/precache-manifest.7ca8e11a089192edf1e581a5bbc9ea8f.js"
 );
 
 self.addEventListener('message', (event) => {
