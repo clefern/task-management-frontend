@@ -7,14 +7,14 @@ import {
   MenuItem,
   Select,
   FormControl,
-  Grid
+  Grid,
 } from '@material-ui/core';
 import DeleteIcon from '@material-ui/icons/Delete';
 import styled from 'styled-components';
 import { inject } from 'mobx-react';
 
 const CardContainer = styled.div`
-  margin-bottom: 20px;
+  margin-bottom: 5px;
 `;
 
 const CardTitle = styled.h1`
@@ -28,7 +28,7 @@ class Task extends Component {
     this.props.tasksStore.deleteTask(this.props.id);
   };
 
-  handleStatusChange = e => {
+  handleStatusChange = (e) => {
     this.props.tasksStore.updateTaskStatus(this.props.id, e.target.value);
   };
 
@@ -44,8 +44,8 @@ class Task extends Component {
           </CardContent>
           <CardActions style={{ padding: '14px' }} disableSpacing>
             <Grid
-              justify="space-between" // Add it here :)
-              container 
+              justify='space-between' // Add it here :)
+              container
             >
               <Grid item>
                 <FormControl style={{ width: '140px' }}>
@@ -63,7 +63,7 @@ class Task extends Component {
 
               <Grid item>
                 <IconButton onClick={this.deleteTask}>
-                  <DeleteIcon color="error" />
+                  <DeleteIcon color='error' />
                 </IconButton>
               </Grid>
             </Grid>
